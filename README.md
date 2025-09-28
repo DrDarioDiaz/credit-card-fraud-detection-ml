@@ -104,7 +104,7 @@ https://github.com/DrDarioDiaz/credit-card-fraud-detection-ml
 
 ## Contacto
 
-**Repositorio mantenido por:** [Su Nombre]  
+**Repositorio mantenido por:** Darío Ezequiel Díaz 
 **Institución:** Universidad Torcuato Di Tella  
 **Curso:** Big Data, Machine Learning & Econometrics  
 **Año académico:** 2025
