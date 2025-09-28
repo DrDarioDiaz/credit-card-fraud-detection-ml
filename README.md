@@ -38,11 +38,11 @@ Este repositorio contiene el dataset utilizado para el análisis comparativo de 
 
 Este dataset forma parte de un análisis académico que implementa:
 
-1. **Análisis Exploratorio** - Caracterización de patrones de fraude
-2. **Feature Engineering** - Variables derivadas temporales y geoespaciales  
-3. **Benchmarking Econométrico** - Modelos logísticos tradicionales
-4. **Machine Learning** - Ridge/Lasso, Random Forest, SVM, KNN, Redes Neuronales
-5. **Evaluación Comparativa** - Trade-off interpretabilidad vs. capacidad predictiva
+1. **Análisis Exploratorio** 
+2. **Feature Engineering** 
+3. **Benchmarking Econométrico** 
+4. **Machine Learning** 
+5. **Evaluación Comparativa** 
 
 ## Estructura del Repositorio
 
@@ -98,9 +98,11 @@ https://github.com/DrDarioDiaz/credit-card-fraud-detection-ml
 ## Uso Académico y Ético
 
 - **Propósito educativo:** Dataset disponible para investigación y aprendizaje
-- **Datos sintéticos:** El dataset contiene información simulada, no datos reales de clientes
 - **Reproducibilidad:** Versionado para garantizar resultados reproducibles
 - **Integridad académica:** Cite apropiadamente el uso de este repositorio
+- **Dataset primario:** [Kaggle - Credit Card Transactions Dataset](https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset)  
+**Autor original:** priyamchoksi  
+**Licencia:** Disponible para uso académico y educativo
 
 ## Contacto
 
@@ -117,4 +119,4 @@ Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) par
 
 ## Disclaimer
 
-Este dataset se proporciona "tal como está" para fines educativos. Los datos son sintéticos y no representan información real de clientes o transacciones financieras.
+Este dataset se proporciona "tal como está" para fines educativos. Los datos son una copia fiel de https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data
